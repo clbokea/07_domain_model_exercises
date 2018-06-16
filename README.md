@@ -1,4 +1,4 @@
-# Domain Model Exercises
+# 07 Domain Model Exercises
 > Agenda, Day 7 (design)
 
 ## Exercises
